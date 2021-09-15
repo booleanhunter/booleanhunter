@@ -13,8 +13,8 @@ In my career, I have worked as a full stack web developer at several technology 
   <summary>
     <strong> ⚡ Click here to see some more stats ⚡ </strong>
   </summary>
-  
-  ![Metrics](https://metrics.lecoq.io/booleanhunter?template=classic&achievements=1&languages=1&people=1&languages.ignored=php%2C%20scss%2C%20go&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.aliases=TypeScript%2C&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata)
+
+  ![Metrics](https://github.com/booleanhunter/booleanhunter/blob/master/github-metrics.svg)
   
 </details>
 
