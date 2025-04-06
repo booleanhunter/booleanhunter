@@ -1,19 +1,19 @@
 # Hi there, I'm [Ashwin](https://ashwinhariharan.com/about) 😄 👋
 
-🎯 *Full-stack dev | Storyteller through code & blog | Bridging product and engineering*
+🎯 *Full-stack dev | Creating Code and Writing Stories | Advocating for Usability & Developer Experience*
 
-I'm a full-stack developer building scalable applications with a strong focus on usability and maintainability. I also love making technical jargon understandable for both technical and non-technical audiences on my [tech blog](https://booleanhunter.com/blog).
+I'm a full-stack developer building scalable web applications with a strong focus on usability and maintainability. I also love making technical jargon understandable for both technical and non-technical audiences on my [tech blog](https://booleanhunter.com/blog).
 
 ## My software engineering principles
 
-- Programs should be written for humans to read, and not just for computers to run
-- Favor simple code that relies mostly on cross-language paradigms, as opposed to framework-specific abstractions
-- Don’t just blindly assume past tool choices are sacred
-- Prefer legibility over succinctness while writing code
+- Programs should be written for humans to read, and not just for computers to run.
+- Favor simple code that relies mostly on cross-language paradigms, as opposed to framework-specific abstractions.
+- Don't just blindly assume past tool choices are sacred!
+- Prefer legibility over succinctness while writing code.
 
 ## Technologies
 
-While I'm trying to think of one specialization to deep dive in, I've used the following technologies at some point and have thoroughly enjoyed creating with them:
+While I'm still trying to think of a single specialization to deep-dive into, I've explored a wide range of technologies. Here are just a few I've especially enjoyed building with:
 
 ### Languages
 
@@ -44,9 +44,9 @@ While I'm trying to think of one specialization to deep dive in, I've used the f
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-I don’t like to call myself an expert in any of these - I like to think of these as tools and instruments to create my art and solve problems.
+I don't like to call myself an expert in any of these - I like to think of these as tools and instruments to create my art and solve problems.
 
-Being a good software engineer requires breadth of knowledge. You can't be aware of everything, but the more things you're aware of, the better! once you know the what and why of it, the answer to how is just a few well-executed Google searches away!
+Being a good software engineer requires breadth of knowledge. You can't be aware of everything, but the more things you're aware of, the better! Once you know the *what* and *why* of it, the answer to *how* is just a few well-executed Google searches away!
 
 ## Some stats 📊
 ![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=booleanhunter&theme=prussian&show_icons=true)
