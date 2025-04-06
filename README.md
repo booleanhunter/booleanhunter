@@ -1,8 +1,52 @@
-# Hi there, I'm [Ashwin](https://ashwinhariharan.com) 😄 👋
+# Hi there, I'm [Ashwin](https://ashwinhariharan.com/about) 😄 👋
 
-## I like creating software 💻 and communicating about it ✍🏼, mostly in the form of [technology deep dives](https://ashwinhariharan.tech/blog)!
+🎯 *Full-stack dev | Storyteller through code & blog | Bridging product and engineering*
 
-In my career, I have worked as a full stack web developer at several technology startups, published several blog posts in leading tech publications, and spent a lot of time learning. Although my background is quite technical, I have several interests outside of the computer science domain - like user experience, science and fitness.
+I'm a full-stack developer building scalable applications with a strong focus on usability and maintainability. I also love making technical jargon understandable for both technical and non-technical audiences on my [tech blog](https://booleanhunter.com/blog).
+
+## My software engineering principles
+
+- Programs should be written for humans to read, and not just for computers to run
+- Favor simple code that relies mostly on cross-language paradigms, as opposed to framework-specific abstractions
+- Don’t just blindly assume past tool choices are sacred
+- Prefer legibility over succinctness while writing code
+
+## Technologies
+
+While I'm trying to think of one specialization to deep dive in, I've used the following technologies at some point and have thoroughly enjoyed creating with them:
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### UI Frameworks and libraries
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Data Analysis
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+I don’t like to call myself an expert in any of these - I like to think of these as tools and instruments to create my art and solve problems.
+
+Being a good software engineer requires breadth of knowledge. You can't be aware of everything, but the more things you're aware of, the better! once you know the what and why of it, the answer to how is just a few well-executed Google searches away!
 
 ## Some stats 📊
 ![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=booleanhunter&theme=prussian&show_icons=true)
@@ -19,10 +63,10 @@ In my career, I have worked as a full stack web developer at several technology 
 </details>
 
 ## My past and current pursuits
+
 <a href="https://www.coursera.org/user/59e8f4ecb48c0cbf56cfc91c12e641f1">
   <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />        
 </a>&nbsp;&nbsp;
-
 
 ### Do checkout my pinned repositories.
 
@@ -39,18 +83,18 @@ Since the advent of the internet, entire world economies, livelihoods and indeed
 
 Open-source work takes a lot of love ❤️ and time ⏳ to create and maintain. If you like what I do, you can help me in the following ways:
 
-* Consider nominating me to [Github Stars](https://stars.github.com/nominate/).
 * Give a ⭐ to my projects.
 * Consider buying me a coffee by clicking the ![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA) button on any of my repositories.
 
 Thank you so much! 🙏🏼
 
 -----
+
 ### Visit me on
 
 <p>
-  <a href="https://www.ashwinhariharan.tech/blog">
-    <img src="https://img.shields.io/badge/Tech%20blog-ashwinhariharan.tech-%231A59AE?labelColor=B43757&style=for-the-badge" />        
+  <a href="https://www.ashwinhariharan.com/software-engineering">
+    <img src="https://img.shields.io/badge/Tech%20blog-%231A59AE?labelColor=B43757&style=for-the-badge" />        
   </a>&nbsp;&nbsp;
   <a href="https://blog.ashwinhariharan.com">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />        
@@ -66,10 +110,6 @@ Thank you so much! 🙏🏼
 
   <a href="https://www.freecodecamp.org/news/author/booleanhunter/">
     <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" />        
-  </a>&nbsp;&nbsp;
-
-  <a href="https://hashnode.booleanhunter.com">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />        
   </a>&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/iyerashwinhariharan/">
